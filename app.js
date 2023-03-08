@@ -104,10 +104,10 @@
 
 //-------------Ejercicio 6-------
 
-// let valor1 = prompt("Ingrese un Valor en Fahrenheit")
-// while (valor1 < 11) {
-//     alert("Ingrese un valor Mayor a 10")
-//     valor1 = prompt("Ingrese un Valor en Fahrenheit")
+// let valor1 = prompt("Ingrese un Valor menor que 11")
+// while (valor1 > 10 || isNaN(valor1)) {
+//     alert("Error debe Ingresar un valor menor que 11")
+//     valor1 = prompt("Ingrese un Valor menor que 11")
 // }
 
 // let aux = valor1;
@@ -263,7 +263,7 @@
 
 
 
-// //-------------Ejercicio 13-------
+//-------------Ejercicio 13-------
 
 
 
